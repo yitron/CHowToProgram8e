@@ -4,6 +4,9 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 02
+- Started exercises in Chapter 2. Stopped mid-week at section 2.5, page 81
+
 ### Week 01
 - Cloned the repository: [CHowToProgram](https://github.com/pdeitel/CHowToProgram8e.git)
 - Used the following compiler:
