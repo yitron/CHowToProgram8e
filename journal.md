@@ -1,5 +1,3 @@
-
-
 # Learning Journal
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
