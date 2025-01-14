@@ -2,6 +2,9 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 03
+- completed Chapter 2's exercises
+
 ### Week 02
 - Started exercises in Chapter 2. Stopped mid-week at section 2.5, page 81
 - organized all codes into dir by chapters
