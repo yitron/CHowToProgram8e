@@ -4,6 +4,8 @@
 
 ### Week 03
 - completed Chapter 2's exercises
+- completed Chapter 3 contents
+- need to understand what are platform integer limits to prevent overflow as it may pose a security attack
 
 ### Week 02
 - Started exercises in Chapter 2. Stopped mid-week at section 2.5, page 81
