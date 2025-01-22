@@ -2,6 +2,9 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 04
+- completed up to 2.16 of chapter 2's exercises
+
 ### Week 03
 - completed Chapter 2's exercises
 - completed Chapter 3 contents
