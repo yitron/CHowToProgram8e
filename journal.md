@@ -2,6 +2,12 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 05
+- added Chapter 4's example codes into repo
+- learnt for, while, do..while control flow
+- learnt flow control statements in break and continue
+- learnt logical AND `&&`, logical OR `||`, logical Negation `!` commands that evaluates conditions
+
 ### Week 04
 - completed up to 2.16 of chapter 2's exercises
 
