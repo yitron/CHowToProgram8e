@@ -7,6 +7,12 @@
 - learnt for, while, do..while control flow
 - learnt flow control statements in break and continue
 - learnt logical AND `&&`, logical OR `||`, logical Negation `!` commands that evaluates conditions
+- explored header files in the std library but compiling with the `-H` flag for the paths
+- started Chapter 5 in C function structures
+- learnt how an OS will interact with stacking and returning of values in C
+- learnt that `function prototypes` is declared for type checking, however concrete definitions is declared in a separate function
+- both prototypes and concrete definitions must have identical identifies, and data types in its headers.
+- learnt that `.h` header function protypes do no need to be compiled
 
 ### Week 04
 - completed up to 2.16 of chapter 2's exercises
