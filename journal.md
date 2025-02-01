@@ -13,6 +13,15 @@
 - learnt that `function prototypes` is declared for type checking, however concrete definitions is declared in a separate function
 - both prototypes and concrete definitions must have identical identifies, and data types in its headers.
 - learnt that `.h` header function protypes do no need to be compiled
+- learnt passing arguments by value in C functions
+- coded a simulation of craps to show how `rand()` is used and how `srand()` implicitly inputs the starting seed of `rand()`
+- briefly used enum and how constants in C syntax works. Constant variable identifers are in CAPITALS. and the array of strings are represented by integers `0, 1, 2, 3....n` for any given constant identifiers
+- these variables are also called constant integer identifiers
+- wrote a program to understand scoping of `auto`, `extern`, `static` storage classes
+- `auto` storage classes are variables within a function definition, and exists when it enters a code block and destroyed when the code block ends
+- `extern` storage classes are for variables such as Global variables which exists until the program terminates
+- `static` storage classes store the previous value of the variable identifier and uses it when a code block is entered next. it gets destroyed when the program terminates.
+- scoping of variables applies the `Principle of Least Privilege` where variables that a function or code block needs is given access.
 
 ### Week 04
 - completed up to 2.16 of chapter 2's exercises
