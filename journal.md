@@ -2,6 +2,11 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 06
+- completed Chapter 5 Learnings
+- committed code learnings for recursive calls using fibonacci numbers
+- commited code learnings for recursive function calls for factorials `(n!)`
+
 ### Week 05
 - added Chapter 4's example codes into repo
 - learnt for, while, do..while control flow
