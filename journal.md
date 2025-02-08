@@ -6,6 +6,13 @@
 - completed Chapter 5 Learnings
 - committed code learnings for recursive calls using fibonacci numbers
 - commited code learnings for recursive function calls for factorials `(n!)`
+- started Chapter 6 on C Arrays
+- learnt to initialize arrays with `int` and `char` datatypes
+- learnt that in C these are usually mutuable and with other classes later in the chapters then there maybe some immutability. such are `const` and `struct` where the values of these elements cannot be changed
+- refactored `fig05_12.c` into `fig06_09.c` summarizing the 60,000,000 die roll with arrays
+- learnt that in type settings of `printf` and `scanf` the numbers like `<conversion_specifier>``<number`>`<datatype>` represents the number of characters or ints within the variable identifier specified.
+- learnt that addresses of memory of arrays are all the same. therefore passing by reference is possible by just passing in the variable identifier of the array identifier. (see program `fig06_12`)
+- stopped at section 6.8
 
 ### Week 05
 - added Chapter 4's example codes into repo
