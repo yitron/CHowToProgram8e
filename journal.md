@@ -2,6 +2,13 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 07
+- learnt using C for bubbleSort
+- bubbleSort is a type of sorting algorithm where the elements bubbles up or down in ascending or descending order
+- learnt to compute mean, median and mode using C
+- learnt LinearSearch and BinarySearch.
+- LinearSearch is used for smaller array lengths. Binary for larger and it is much quicker in decomposing the elements
+
 ### Week 06
 - completed Chapter 5 Learnings
 - committed code learnings for recursive calls using fibonacci numbers
