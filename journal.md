@@ -8,6 +8,10 @@
 - learnt to compute mean, median and mode using C
 - learnt LinearSearch and BinarySearch.
 - LinearSearch is used for smaller array lengths. Binary for larger and it is much quicker in decomposing the elements
+- learnt C array one and multidimensional initialization and  manupilations
+- learnt variable-length array initialization if data of arrays are not known during compilation time
+- learnt that we are able to compile C codes into various C standards by specifiying the standard convention during compile time
+- completed Chapter 6!
 
 ### Week 06
 - completed Chapter 5 Learnings
