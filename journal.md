@@ -2,6 +2,14 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 08
+- started on Chapter 7 on C Pointers
+- learnt that the ampersand operator & calls the address of the variable defined
+- learnt that the indirection operator * points to an address in memory
+- both are complementary of each other
+- learnt that passing by reference can alter a variable identifier without returning a value
+- To apply the principle of least priviledge, if it is a scalar parameter better to use return values for more explicitity
+
 ### Week 07
 - learnt using C for bubbleSort
 - bubbleSort is a type of sorting algorithm where the elements bubbles up or down in ascending or descending order
