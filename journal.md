@@ -16,10 +16,10 @@
 - experimented with reasoning models (o1 and R1) to read from image of handwritten Pesudocodes
 
 #### Generated Codes in Dir Chapter 7
-![Pseudocode](chapter_7/IMG2269.jpg)
+![Pseudocode](chapter_7/IMG_2269.jpg)
 
 #### From handwritten codes
-![Codes](chapter_7/IMG2270.jpg)
+![Codes](chapter_7/IMG_2270.jpg)
 
 ### Week 07
 - learnt using C for bubbleSort
