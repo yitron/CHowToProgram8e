@@ -9,6 +9,17 @@
 - both are complementary of each other
 - learnt that passing by reference can alter a variable identifier without returning a value
 - To apply the principle of least priviledge, if it is a scalar parameter better to use return values for more explicitity
+- learnt about the type `const` in C where it doesn't allow the assigment of data to be changed
+- `const` types allows addresses to be pointed but not changed
+- learnt pointer notation and index notation copying of data.
+- hand wrote Pseudo codes using top wise step down refinement approach for a card shuffling system
+- experimented with reasoning models (o1 and R1) to read from image of handwritten Pesudocodes
+
+#### Generated Codes in Dir Chapter 7
+![Pseudocode](/chapter_7/IMG2269.jpg)
+
+#### From handwritten codes
+![Codes](/chapter_7/IMG2270.jpg)
 
 ### Week 07
 - learnt using C for bubbleSort
