@@ -2,6 +2,9 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 09
+- completed learnings and codes of Chapter 7
+
 ### Week 08
 - started on Chapter 7 on C Pointers
 - learnt that the ampersand operator & calls the address of the variable defined
