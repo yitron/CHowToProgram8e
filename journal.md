@@ -4,6 +4,8 @@
 
 ### Week 09
 - completed learnings and codes of Chapter 7
+- coded exercise 7.27's a, b, c, programs
+- programmed simpletron's starting print and operation codes
 
 ### Week 08
 - started on Chapter 7 on C Pointers
