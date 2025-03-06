@@ -2,6 +2,11 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 10
+- completed Chapter 3 self reviewed exercises
+- learnt string libs of C and it's manipulations in Chapter 8
+- end at Section 8.7 in string comparison of the standard libary strcmp and strncmp
+
 ### Week 09
 - completed learnings and codes of Chapter 7
 - coded exercise 7.27's a, b, c, programs
