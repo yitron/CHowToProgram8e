@@ -2,6 +2,10 @@
 
 ## C How to Program (8th Edition) - Paul & Harvey Deitel
 
+### Week 11
+- completed rest of string and character manipulation in Chapter 8
+- learnt about string memory manipulation functions of the C standard `string.h` library
+
 ### Week 10
 - completed Chapter 3 self reviewed exercises
 - learnt string libs of C and it's manipulations in Chapter 8
